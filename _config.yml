@@ -4,8 +4,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://Kohj-git.github.io
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
+author-name:    Kimmingyu
+author-image:   face.png
 author-job:     Web Developer
 author-email:   your-email@domain.com # Add your email for contant form.
 author-twitter: artemsheludko_ # Add your twitter account
