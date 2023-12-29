@@ -5,15 +5,15 @@ url: http://Kohj-git.github.io
 
 # Author
 author-name:    Kimmingyu
-author-image:   face.png
-author-job:     Web Developer
+author-image:   file:///C:/Users/gg732/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9E%A1%EB%8B%A4/face.png
+author-job:     Developer
 author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-twitter: 
+about-author:   I am a Student and developer. Always hungry to keep learning.
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
+
+
 social-github:    artemsheludko
 social-pinterest: artemsheludko
 social-instagram: artemsheludko_
